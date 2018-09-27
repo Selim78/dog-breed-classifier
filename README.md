@@ -10,7 +10,8 @@ Built an algorithm to identify canine breed given an image of a dog. If given im
 # Examples of results
 
 
-> On the left, the image to classify, on the right an example of image from the class predicted. 
+> On the left: the image to be classified
+> On the right: an example of an image from the predicted class 
 
 ```
 That's a dog!
